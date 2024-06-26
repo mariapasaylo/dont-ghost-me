@@ -1,6 +1,6 @@
 # Don't Ghost Me
 
-Reminders and automated follow-up emails are sent when companies fail to provide updates on your job application within a specified timeframe.
+Browser extension that sends automated reminders and follow-up emails when companies fail to provide updates on your job application within a specified timeframe.
 
 ## Problem Statement
 
