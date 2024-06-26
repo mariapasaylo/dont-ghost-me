@@ -13,7 +13,7 @@ Job applicants often face a significant challenge in keeping track of their job 
 3. **Lack of Communication**: Companies sometimes fail to communicate their decision, leaving applicants waiting indefinitely.
 4. **Collecting Ghosting Data**: There is no centralized platform where applicants can share and access information about companies' communication practices, making it hard to identify which companies are more likely to ghost applicants.
 
-## Project Solution
+## Possible Solution
 
 Our solution addresses these challenges by developing an automated system that helps job applicants manage their follow-up process efficiently and keep track of potential ghosting incidents. The key features of the solution include:
 
@@ -41,11 +41,11 @@ Our solution addresses these challenges by developing an automated system that h
   
 - **Enhanced Data Sharing**: Future updates will focus on developing a more comprehensive platform that aggregates ghosting data and provides detailed insights into companies' communication trends, helping applicants make more informed decisions.
 
-## Getting Started
+## Getting started
 
-1. ...
+1. Download ...
 
-## Contributing
+## How to Contribute
 
 (NEEDS TO BE MORE SPECIFIC ON HOW TO RUN IT LOCALLY) We welcome contributions to the project! Please follow these steps to get involved:
 
@@ -53,7 +53,6 @@ Our solution addresses these challenges by developing an automated system that h
 2. Create a new branch with your feature or bug fix.
 3. Commit your changes.
 4. Submit a pull request for review.
-
 
 
 ## License
