@@ -19,7 +19,9 @@ Our solution addresses these challenges by developing an automated system that h
 
 ### Browser Extension Integration
 
-- **Integration with Popular Trackers**: Our extension integrates with existing job application trackers such as [Teal](https://tealhq.com) and [Simplify](https://simplify.jobs), enhancing their capabilities by adding automated follow-up and reminder features. This integration allows for seamless synchronization of job application data and follow-up reminders across platforms.
+- **Internal Application Tracker**: When you apply to sites like LinkedIn jobs or Workday, the extension autommatically adds it to your master tracker. You can also manually input an applicatio that you submitted.  
+  
+- **Sync with Popular Trackers**: Our extension integrates with existing job application trackers such as [Teal](https://tealhq.com) and [Simplify](https://simplify.jobs), enhancing their capabilities by adding automated follow-up and reminder features. This integration allows for seamless synchronization of job application data and follow-up reminders across platforms.
   
 - **Reminders for Application Stages**: The browser extension provides reminders for different stages of the application process, allowing users to stay organized and never miss a follow-up opportunity.
   
